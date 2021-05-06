@@ -1,4 +1,4 @@
-# Word of the Day Bot
+# Word-of-the-Day Bot
 # A Reddit bot that replies to comments using a word of the day.
 
 import praw
